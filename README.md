@@ -1,4 +1,4 @@
-# Friday Night Funkin': Kade Engine
+# Friday Night Funkin' X Super Tom
 ## Friday Night Funkin'
 **Friday Night Funkin'** is a rhythm game originally made for Ludum Dare 47 "Stuck In a Loop".
 
